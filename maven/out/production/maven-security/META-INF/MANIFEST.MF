@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: spring-web-4.0.2.RELEASE.jar sigar.jar spring-context-4.0.
+ 2.RELEASE.jar spring-webmvc-4.0.2.RELEASE.jar
+Main-Class: 
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/maven.iml" filepath="$PROJECT_DIR$/maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-core/maven-core.iml" filepath="$PROJECT_DIR$/maven-core/maven-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-rbac/maven-rbac.iml" filepath="$PROJECT_DIR$/maven-rbac/maven-rbac.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-security/maven-security.iml" filepath="$PROJECT_DIR$/maven-security/maven-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-system/maven-system.iml" filepath="$PROJECT_DIR$/maven-system/maven-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maven-utils/maven-utils.iml" filepath="$PROJECT_DIR$/maven-utils/maven-utils.iml" />
+    </modules>
+  </component>
+</project>
